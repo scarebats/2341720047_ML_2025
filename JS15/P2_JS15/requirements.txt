@@ -1,7 +1,0 @@
-flask
-tensorflow-cpu
-numpy
-scikit-learn
-scikit-image
-opencv-python-headless
-gunicorn
