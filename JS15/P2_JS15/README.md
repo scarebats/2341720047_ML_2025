@@ -19,7 +19,7 @@ Link Deploy
 
 Hasil
 
-![](img/Klasifikasi.png)
+![](img/klasifikasi.png)
 
 ![](img/hasil.png)
 
